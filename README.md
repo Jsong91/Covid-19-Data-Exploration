@@ -2,21 +2,24 @@
 
 #### For almost 2 years, we have been living with the Covid-19 Pandemic since it surfaced in November 2019. By exploring and analysing the dataset, I hope to understand current trend based on data
 
-I have extract the Covid-19 Dataset from **<a href="https://public.tableau.com/app/profile/song.jiahe/viz/GoogleDataAnalyticsProfessionalCapstone-CyclisticCaseStudy/Casual_GeoData" rel="nofollow">OurWorldinData</a>** from Nov 2019 to May 2021.
+I have extract the Covid-19 Dataset from **<a href="https://ourworldindata.org/covid-deaths" rel="nofollow">OurWorldinData</a>** from **24 Feb 2020 to 22 June 2021**.
 
-To answer key business questions, I followed the six steps of the data analysis process taught in the course which are: Ask, Prepare, Process, Analyze, Share and Act.
+**Analysis Process**
 
-- Detailed documentation of SQL code is available in GitHub.
-- Initial analysis of datasets provided by Cyclistic using Microsoft Excel.
+- Initial analysis of datasets used Microsoft Excel.
 - Data cleaning, manipulation and exploration using Microsoft SQL.
-- Data Visualization using Tableau Public.
-- Provides data-driven recommendations based on the analysed data.
+- Data Visualization using Tableau Public via Dashboard.
 
-Raw Dataset Available from: **<a href="https://divvy-tripdata.s3.amazonaws.com/index.html" rel="nofollow">Cyclistic Bike Sharing Data</a>**
+**From the dataset, 4 key areas interests me for me to perform further analysis:**
 
-For more details on this case study, check out my 
-- Tableau at: **<a href="https://public.tableau.com/app/profile/song.jiahe/viz/GoogleDataAnalyticsProfessionalCapstone-CyclisticCaseStudy/Casual_GeoData" rel="nofollow">Cyclistic Case Study Data Visualization</a>**
-- Medium at: **<a href="https://jsong91.medium.com/google-data-analytics-professional-certificate-capstone-project-498e4c1e4d52" rel="nofollow">Steps for Cyclistic Bike Share Data Analysis</a>**
+- % Population Infected Per Country
+- Global Covid Numbers
+- Total Death Per Continents
+- % Population Infected of 5 countries that I am interested in.
+
+
+For the data visualization
+- Tableau at: **<a href="https://public.tableau.com/app/profile/song.jiahe/viz/CovidGlobalNumbersDashboard/Dashboard1" rel="nofollow">Covid-19 Data Exploration Dashboard</a>**
 
 
 For other projects, check out my portfolio project at
